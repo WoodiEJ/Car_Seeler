@@ -1,5 +1,3 @@
-Aqui tens uma versão mais direta e simples para o teu README.md:
-
 🚗 Car Seeler
 Um sistema simples para gerir a venda de carros, com backend em Java (Spring Boot) e frontend em React.
 
