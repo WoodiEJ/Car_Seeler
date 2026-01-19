@@ -97,7 +97,7 @@ function ListaEmpregado() {
                             {empregados.map((emp) => (
                                 <tr key={emp.idEmpregado} className="border-b border-gray-200 hover:bg-gray-50 transition">
                                     <td className="py-3 px-4 font-medium">{emp.nomeCompleto}</td>
-                                    <td className="py-3 px-4 text-gray-600">{cliente.cpf}</td>
+                                    <td className="py-3 px-4 text-gray-600">{emp.cpf}</td>
                                     <td className="py-3 px-4 text-center">
                                         <span className="bg-orange-100 text-orange-800 text-xs font-bold px-3 py-1 rounded-full">
                                             {emp.vendas || 0}

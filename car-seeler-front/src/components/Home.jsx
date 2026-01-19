@@ -6,7 +6,7 @@ function Home() {
       
       <div className="text-center mb-10">
         <h1 className="text-4xl font-extrabold text-blue-900 mb-2">
-          Car Seeler System 🚘
+          Car Seller System 🚘
         </h1>
         <p className="text-gray-600">Gerencie sua concessionária em um só lugar</p>
       </div>

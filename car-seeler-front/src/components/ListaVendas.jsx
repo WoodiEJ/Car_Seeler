@@ -110,7 +110,7 @@ function ListaVendas() {
                     </div>
 
                     <button type="submit" className="col-span-1 md:col-span-3 bg-purple-600 text-white p-3 rounded hover:bg-purple-700 font-bold transition text-lg mt-2">
-                        Confirmar Venda (Cálculo Automático) 💰
+                        Confirmar Venda
                     </button>
                 </form>
             </div>
